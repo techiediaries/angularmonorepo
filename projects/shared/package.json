@@ -1,7 +1,7 @@
 {
   "name": "shared",
-  "version": "0.0.1",
-  "scripts":{
+  "version": "0.1.0",
+  "scripts": {
     "build": "ng-packagr"
   },
   "peerDependencies": {

@@ -1,6 +1,6 @@
 {
     "name": "demoapp",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "scripts": {
         "start": "ng serve demoapp",
         "build": "ng build demoapp",
@@ -8,6 +8,6 @@
         "lint": "ng lint demoapp"
     },
     "dependencies": {
-        "shared": "^0.0.1"
+        "shared": "^0.1.0"
     }
 }
