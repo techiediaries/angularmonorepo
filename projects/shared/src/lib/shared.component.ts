@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'lib-shared',
   template: `
     <p>
-      shared works!
+      It works!
     </p>
   `,
   styles: [
